@@ -1,1 +1,3 @@
-__init__
+import streamlit
+
+streamlit.title('My Parents New Healthy Dinner')
